@@ -1,0 +1,6 @@
+{
+  "name": "I. S. K Sound & Live DJ",
+  "description": "DJ ઇવેન્ટ બુકિંગ, બિલિંગ, કૅલેન્ડર અને હિસાબ માટે સંપૂર્ણ ગુજરાતી એપ - I. S. K SOUND & LIVE DJ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
